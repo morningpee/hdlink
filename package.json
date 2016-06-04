@@ -1,0 +1,18 @@
+{
+  "name": "hdlink",
+  "version": "1.0.0",
+  "description": "Shoutbox <-> irc relay for Harddrop.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kris Reeves",
+  "license": "ISC",
+  "dependencies": {
+    "bhttp": "^1.2.1",
+    "bluebird": "^3.4.0",
+    "cheerio": "^0.20.0",
+    "double-ended-queue": "^2.1.0-0",
+    "irc-factory": "^1.10.1"
+  }
+}
