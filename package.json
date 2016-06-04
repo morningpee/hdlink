@@ -4,6 +4,7 @@
   "description": "Shoutbox <-> irc relay for Harddrop.com",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Kris Reeves",
